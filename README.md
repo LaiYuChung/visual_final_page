@@ -6,6 +6,7 @@
 
 ### 頁面配置
 頁面連結:[連結]( https://laiyuchung.github.io/visual_final_page/visual_page/index.html)
+<br>
 index.html
 tableau  互動儀表板設計，旁邊附註講解
 
