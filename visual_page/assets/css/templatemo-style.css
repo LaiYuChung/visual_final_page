@@ -153,7 +153,7 @@ section {
 /* Services */
 
 .services {
-	margin-top: 100px;
+	margin-top: 30px;
 }
 
 .services .container-fluid {
@@ -247,7 +247,7 @@ section {
 /* Top Image */
 
 .top-image {
-	margin-top: 100px;
+	margin-top: 30px;
 }
 
 .top-image .container-fluid {
@@ -265,7 +265,7 @@ section {
 
 /* Left Image */
 .left-image {
-	margin-top: 100px;
+	margin-top: 30px;
 }
 
 .left-image .container-fluid {
@@ -292,7 +292,7 @@ section.right-image {
 }
 
 .right-image {
-	margin-top: 100px;
+	margin-top: 30px;
 }
 
 .right-image .container-fluid {
@@ -1104,7 +1104,7 @@ section.buttons .container-fluid {
 	    margin: -15px!important;
 	}
 	section.main-banner {
-		margin-top: 30px;
+		margin-top: 15px;
 	}
     .page-heading h1 {
         margin-top: 80px;
