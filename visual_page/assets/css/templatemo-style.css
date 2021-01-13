@@ -11,7 +11,7 @@ https://templatemo.com/tm-529-ramayana
 @import url("https://fonts.googleapis.com/css?family=Roboto+Slab:400,700");
 
 body {
-	font-family: 'Roboto Slab', sans-serif;
+	font-family: '微軟正黑體', sans-serif;
 }
 
 /* Basic */
@@ -28,7 +28,7 @@ a:hover {
 p {
 	font-size: 18px;
 	line-height: 25px;
-	color: #7a7a7a;
+	color: #444444;
 	letter-spacing: 0.2px;
 }
 
